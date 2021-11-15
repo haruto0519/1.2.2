@@ -1,0 +1,5 @@
+player 1,13
+fa,13
+fds,13
+theworstplayer,12
+l,11
